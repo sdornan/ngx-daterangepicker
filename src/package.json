@@ -1,0 +1,30 @@
+{
+  "name": "ngx-daterangepicker",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sdornan/ngx-daterangepicker"
+  },
+  "author": {
+    "name": "Sam Dornan",
+    "email": "sdornan@gmail.com"
+  },
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sdornan/ngx-daterangepicker/issues"
+  },
+  "module": "ngx-daterangepicker.js",
+  "typings": "ngx-daterangepicker.d.ts",
+  "dependencies": {
+    "bootstrap-daterangepicker": "^2.1.25",
+    "jquery": "^3.2.1"
+  },
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
